@@ -1,0 +1,11 @@
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\bin\Debug\06 09 24.exe.config
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\bin\Debug\06 09 24.exe
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\bin\Debug\06 09 24.pdb
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\06 09 24.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\06 09 24.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\_06_09_24.Form1.resources
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\_06_09_24.Properties.Resources.resources
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\06 09 24.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\06 09 24.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\06 09 24.exe
+C:\Users\labc202\Documents\6 9 24\6 9 24\6 9 24\Sesion 6\06 09 24\obj\Debug\06 09 24.pdb
